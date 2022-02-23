@@ -1,5 +1,4 @@
 import React from "react";
-import { render } from "react-dom";
 import SHOP_DATA from "./shop.data";
 import CollectionPreview from '../../components/collection-preview/collection-preview.component.jsx'
 
